@@ -103,3 +103,5 @@ If you finish all debugging, you can build the .apk file of your app for install
 4. After the .apk file is built, the location of your built .apk should be indicated in the terminal. The default path of the built .apk should be:
 
    **build/app/outputs/apk/release/app-release.apk**
+
+## Product Description Interface
