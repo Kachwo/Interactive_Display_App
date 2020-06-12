@@ -105,3 +105,5 @@ If you finish all debugging, you can build the .apk file of your app for install
    **build/app/outputs/apk/release/app-release.apk**
 
 ## Product Description Interface
+![Image of Product Description Interface](ui_img/product_interface.png)
+
